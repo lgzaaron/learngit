@@ -5,3 +5,5 @@ public  void say(){
 }
 public  void show(){
 }
+public  void ea(){
+}
